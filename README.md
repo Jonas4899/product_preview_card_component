@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Repository](https://github.com/Jonas4899/product_preview_card_component)
+- Live Site URL: [GitHub pages link](https://jonas4899.github.io/product_preview_card_component/)
 
 ## My process
 
